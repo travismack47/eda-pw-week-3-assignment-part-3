@@ -1,1 +1,7 @@
 /* give your assignment a fun background color */
+h1, h2 {
+    color: #FCEDDA;
+    }
+body {
+    background-color:#EE4E34;
+}
